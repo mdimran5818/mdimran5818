@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mdimran5818
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning In KGEC IT Department
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Imran
+- 👀 I’m interested in Exploring new things
+- 🌱 A IT Graduate
+- 
 
 <!---
 mdimran5818/mdimran5818 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
